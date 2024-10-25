@@ -1,0 +1,11 @@
+mod = [
+	"Custom FOV"
+]
+
+package = [
+	"resource_packages/Custom FOV/Custom FOV"
+]
+
+lua = [
+	"scripts/mods/Custom FOV/*"
+]
